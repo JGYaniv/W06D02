@@ -13,6 +13,7 @@ body {
 
 ol, ul {
   list-style: none;
+  /* display: flex; */
 }
 
 input[type="radio"], select, input[type="submit"] {
